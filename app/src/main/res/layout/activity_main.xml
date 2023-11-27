@@ -26,7 +26,7 @@
         android:inputType="text" />
 
     <EditText
-        android:id="@+id/txtContraseña"
+        android:id="@+id/txtContrasenya"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
